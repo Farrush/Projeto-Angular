@@ -4,16 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Global dependencies
 
-'npm i -g json-server'
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+`npm i -g json-server`
 
 ## json-server
 Terminal:
 
-...\bytebank\dados>'json-server --watch db.json' 
+...\bytebank\dados>`json-server --watch db.json`
 
 Browser:
 
@@ -21,9 +17,9 @@ http://localhost:3000/transferencias
 
 ## Start App
 
-'npm install'
+`npm install`
 
-'ng serve --open'
+`ng serve --open`
 
 ## Further help
 
