@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## json-server
 Terminal:
 
-...\bytebank\dados>`json-server --watch db.json`
+`npm run json-server`
 
 Browser:
 
@@ -19,8 +19,6 @@ http://localhost:3000/transferencias
 
 `npm install`
 
-`ng serve --open`
+`npm run start`
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+http://localhost:4200/extrato
